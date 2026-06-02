@@ -1,30 +1,46 @@
-<h1 align="center">Hi 🚀, I'm Mohnish Srivats</h1>
+<h1 align="center">Hi 👋, I'm Mohnish Srivats</h1>
 
-<h3 align="center">Building reliable infrastructure for AI systems.</h3>
-
-<h4 align="center">
-Master's Student in Computer Science @ CU Boulder
-</h4>
-
-<br>
+<h3 align="center">
+Building reliable infrastructure for a <strong>Big 4 client's</strong> AI agent before it reaches production.
+</h3>
 
 <p align="center">
-Interested in Agentic AI Reliability • Site Reliability Engineering • Cloud Infrastructure • Distributed Systems
+  <img src="https://komarev.com/ghpvc/?username=Mohnish-Srivats&label=Profile%20views&color=0e75b6&style=flat" alt="Mohnish-Srivats" />
 </p>
 
-<br>
+---
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Mohnish-Srivats&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Mohnish-Srivats" /> 
-  </p>
+## 👤 Who Am I?
 
-## About Me
+<img align="right" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/University_of_Colorado_Boulder_seal.svg/150px-University_of_Colorado_Boulder_seal.svg.png" width="80" alt="CU Boulder" />
 
-- Building solutions that help AI agents become production-ready
-- Interested in Cloud Infrastructure and Platform Engineering
-- Exploring Observability, Monitoring, and Reliability Engineering
-- Learning Distributed Systems and System Design
-- Looking for Software Engineering, Infrastructure, and SRE opportunities
+- 🎓 **Master's in Computer Science** @ University of Colorado Boulder *(Expected May 2027)*
+- 🤖 **AI Software Engineer Intern** @ [Reins AI](https://reins.ai) — building production reliability systems for a **Big 4 client**
+- 🏢 **Previously** @ Atlassian *(via Genpact)* — Platform Engineering & Enterprise Integrations (FinTech)
+- ☁️ Domain: **Platform Engineering · Cloud Infrastructure · Enterprise Integrations**
+- 🕺 **Active Hip-Hop dancer** — because not everything needs to run on a cluster
+
+---
+
+## 🔨 What Am I Building?
+
+- 🛡️ **AI Agent Reliability Systems** — Evaluating and hardening AI agents for enterprise Big 4 deployment before they reach production
+- 📚 **Mastering DSA & Software Foundations** — Grinding algorithms and system internals to build on rock-solid ground
+
+---
+
+## 💡 What Value Can I Add?
+
+I'm genuinely obsessed with **reliability and infrastructure for AI agents** — the unglamorous, critical layer that makes intelligent systems actually trustworthy at scale.
+
+- 🔍 **Observability-first mindset** — Prometheus, Grafana, OpenTelemetry for deep system visibility
+- ☁️ **Cloud-native infrastructure** — AWS, Kubernetes, Terraform, Docker for scalable, resilient deployments
+- 🤖 **AI + Infra intersection** — I think about agent failure modes, tracing LLM pipelines, and making agentic systems production-grade
+- 🔗 **Enterprise integration experience** — Built platform solutions in FinTech at scale via Atlassian/Genpact
+
+> 🎯 **Open to:** Software Engineering · Software Infrastructure · Site Reliability Engineering (SRE) roles
+
+---
 
 ---
 
