@@ -10,39 +10,30 @@ Building reliable infrastructure for a <strong>Big 4 client's</strong> AI agent 
 
 ---
 
-## 👤 Who Am I?
+## Who Am I?
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/University_of_Colorado_Boulder_seal.svg/150px-University_of_Colorado_Boulder_seal.svg.png" width="80" alt="CU Boulder" />
-
-- 🎓 **Master's in Computer Science** @ University of Colorado Boulder *(Expected May 2027)*
-- 🤖 **AI Software Engineer Intern** @ [Reins AI](https://reins.ai) — building production reliability systems for a **Big 4 client**
-- 🏢 **Previously** @ Atlassian *(via Genpact)* — Platform Engineering & Enterprise Integrations (FinTech)
-- ☁️ Domain: **Platform Engineering · Cloud Infrastructure · Enterprise Integrations**
-- 🕺 **Active Hip-Hop dancer** — because not everything needs to run on a cluster
+-  **Master's in Computer Science** @ University of Colorado Boulder *(Expected May 2027)*
+-  **AI Software Engineer Intern** @ Reins AI: Building reliability solutions for a **Big 4 client**
+-  **Previously** @ Atlassian (via Genpact) : Platform Engineering & Enterprise Integrations (FinTech).
+-  **Active Hip-Hop dancer** : because not everything needs to run on a cluster
 
 ---
 
-## 🔨 What Am I Building?
+## What Am I Building?
 
-- 🛡️ **AI Agent Reliability Systems** — Evaluating and hardening AI agents for enterprise Big 4 deployment before they reach production
-- 📚 **Mastering DSA & Software Foundations** — Grinding algorithms and system internals to build on rock-solid ground
-
----
-
-## 💡 What Value Can I Add?
-
-I'm genuinely obsessed with **reliability and infrastructure for AI agents** — the unglamorous, critical layer that makes intelligent systems actually trustworthy at scale.
-
-- 🔍 **Observability-first mindset** — Prometheus, Grafana, OpenTelemetry for deep system visibility
-- ☁️ **Cloud-native infrastructure** — AWS, Kubernetes, Terraform, Docker for scalable, resilient deployments
-- 🤖 **AI + Infra intersection** — I think about agent failure modes, tracing LLM pipelines, and making agentic systems production-grade
-- 🔗 **Enterprise integration experience** — Built platform solutions in FinTech at scale via Atlassian/Genpact
-
-> 🎯 **Open to:** Software Engineering · Software Infrastructure · Site Reliability Engineering (SRE) roles
+- **Agentic Reliability Systems** — Evaluating and hardening AI agents for enterprise Big 4 deployment before they reach production
+- **Mastering DSA & Software Foundations** — Grinding algorithms and system internals to build on rock-solid ground
 
 ---
 
----
+## What Value Can I Add?
+
+- **Observability-first mindset** — Prometheus, Grafana, OpenTelemetry for deep system visibility
+- **Cloud-native infrastructure** — AWS, Kubernetes, Terraform, Docker for scalable, resilient deployments
+- **AI + Infra intersection** — I think about agent failure modes, tracing LLM pipelines, and making agentic systems production-grade
+- **Enterprise integration experience** — Built platform solutions in FinTech at scale via Atlassian/Genpact
+
+> **Open to:** Software Engineering · Software Infrastructure · Site Reliability Engineering (SRE) roles
 
 # Tech Stack
 
@@ -77,33 +68,6 @@ I'm genuinely obsessed with **reliability and infrastructure for AI agents** —
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
-## Current Focus
-
-- Agentic AI Reliability
-- Distributed Systems
-- Kubernetes
-- Platform Engineering
-- Site Reliability Engineering
-- System Design
-
----
-
-## Featured Projects
-
-### AI Reliability Framework
-Building systems to evaluate and improve AI agent reliability before deployment.
-
-### Distributed Key-Value Store
-Exploring replication, consistency, and fault tolerance.
-
-### Infrastructure Automation
-Terraform and AWS projects focused on scalable infrastructure.
-
-### Observability Lab
-Monitoring and tracing applications using Prometheus, Grafana, and OpenTelemetry.
-
 
 ## 🤝 Connect With Me
 
@@ -112,5 +76,3 @@ Monitoring and tracing applications using Prometheus, Grafana, and OpenTelemetry
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohnishsrivats0311@gmail.com)
 
 ---
-
-> Building systems that help AI agents fail less often.
